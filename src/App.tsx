@@ -8,7 +8,7 @@ function App() {
   return (
     <>
      
-       <p>Nombre: {import.meta.env.VITE_NAME}</p>
+       <p>Nombre creador: {import.meta.env.VITE_NAME}</p>
     </>
   )
 }
